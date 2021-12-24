@@ -4,6 +4,7 @@ module.exports = {
       {
         source: '/redirect',
         destination: '/ssr',
+        permanent: false,
       },
     ]
   },
